@@ -12,7 +12,7 @@ git clone https://github.com/NikitaHuslystyi/Tic_Tac_Toe.git
 
 ### 2. Navigate to the project folder
 ```bash
-cd Tic_Tac_Toe
+cd TicTacToe
 ```
 
 ### 3. (Optional) Create a virtual environment
